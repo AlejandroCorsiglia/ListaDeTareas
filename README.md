@@ -1,8 +1,8 @@
-Lista de Tareas ✅
+# Lista de Tareas ✅
 
 Aplicación de lista de tareas simple desarrollada con HTML, CSS y JavaScript. Permite agregar nuevas tareas, marcarlas como completadas y eliminarlas.
 
-🚀 Características
+## 🚀 Características
 
 Agregar nuevas tareas a la lista.
 
