@@ -12,3 +12,5 @@ Eliminar tareas de la lista.
 
 Interfaz sencilla y responsiva.
 
+## 🖼️ Captura de Pantalla
+![listaDeTreas](https://github.com/user-attachments/assets/65efbfb3-4392-4ce4-8abf-8e7c07cd111d)
